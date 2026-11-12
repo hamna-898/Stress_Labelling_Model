@@ -1,0 +1,6 @@
+# Video environment (PyTorch itself is installed by setup_video_env.bat with CUDA)
+py-feat==2.1.5
+torchcodec>=0.11,<0.17
+imageio-ffmpeg>=0.5
+pandas>=2.0
+numpy>=1.26
